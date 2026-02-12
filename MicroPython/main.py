@@ -6,4 +6,4 @@ This module is a Micro:bit MicroPython program
 
 from microbit import *
 
-display.scroll("Hello, World!")
+display.scroll("Hello, Kyle!")
